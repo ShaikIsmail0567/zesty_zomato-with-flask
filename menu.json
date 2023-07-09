@@ -1,0 +1,29 @@
+[
+   {
+      "availability": "no",
+      "dish_name": "rice",
+      "id": 1,
+      "stock": 20
+   },
+   {
+      "availability": "no",
+      "dish_name": "dal chawal",
+      "id": 2,
+      "price": 250,
+      "stock": 15
+   },
+   {
+      "availability": "no",
+      "dish_name": "chicken curry",
+      "id": 3,
+      "price": 500,
+      "stock": 15
+   },
+   {
+      "availability": "yes",
+      "dish_name": "ghee rice",
+      "id": 4,
+      "price": 250,
+      "stock": 10
+   }
+]
